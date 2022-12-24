@@ -12,14 +12,9 @@ Hi, i'm Moshe, a computer vision and deep learning researcher.
 my main focus is on efficiency: efficient models, low power computing and semi-supervised learning (efficient annotated data).
 I'm an electrical-computer engineer by education.
 
+📊 I teach deep learning, check out our grate course at the technion:
 
-**languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 I teach deep learning
 https://vistalab-technion.github.io/cs236781/
 
 
