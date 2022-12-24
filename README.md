@@ -25,7 +25,7 @@ I'm an electrical-computer engineer by education.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="mkimhi" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mkimhi&show_icons=true&theme=gotham" alt="mkimhi" />
 
 
 
