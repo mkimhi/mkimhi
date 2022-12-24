@@ -19,15 +19,11 @@ I'm an electrical-computer engineer by education.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 I teach deep learning
-
+https://vistalab-technion.github.io/cs236781/
 
 
 
 📈 my github stats
-
-<a href="https://github.com/mkimhi/mkimhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkimhi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mkimhi&show_icons=true&theme=gotham" alt="mkimhi" />
 
